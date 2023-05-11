@@ -1,0 +1,19 @@
+
+div{
+    background-color: #7BA4C4;
+    text-align: center;
+}
+.escrito1, .escrito2{
+    color: #232946;
+}
+#fotodeperfil{
+    width: 100%;
+    border-radius: 100%;
+    box-shadow:3px 3px 3px #232946;
+}
+
+#nombre, #acer{
+    color: #232946;
+    font-weight: bold;
+    margin-top: 50px;
+}
