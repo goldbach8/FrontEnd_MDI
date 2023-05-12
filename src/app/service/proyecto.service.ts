@@ -8,7 +8,7 @@ import { Proyecto } from '../model/proyecto';
   providedIn: 'root'
 })
 export class ProyectoService {
-  URL = 'http://localhost:8080/proy/';
+  URL = 'https://frontendmdi.web.app/proy/';
 
   constructor(private httpClient : HttpClient) { }
 
